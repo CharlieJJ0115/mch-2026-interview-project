@@ -78,7 +78,7 @@
    <img src="public/use-your.png" width="400" alt="Use your GitHub Pages">
    <br><br>
 
-8. **最後在頂部選擇Pull requests 並發送一份PR給我們即可**
+8. **最後在頂部選擇Pull requests 並發送一份PR給我們即可 (PR 名稱請放姓名）**
 
 ---
 
